@@ -1,1 +1,1 @@
-# phone_price_predict
+# Bài thi cuối kì môn Khoa học dữ liệu
